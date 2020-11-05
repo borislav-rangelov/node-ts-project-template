@@ -1,0 +1,6 @@
+# Modules and dist
+/node_modules
+/dist
+
+# VSCode
+

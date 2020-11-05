@@ -1,0 +1,11 @@
+{
+    "watch": [
+        "src/**/*.ts"
+    ],
+    "ignore": [
+        "src/**/*.spec.ts"
+    ],
+    "ext": "ts,json",
+    "delay": 1000,
+    "exec": "npm run debug"
+}
